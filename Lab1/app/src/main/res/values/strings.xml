@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="title_activity_fitness">FitnessActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="about_cardio">"Получая достаточное количество баллов кардиотренировок - 150 в неделю вы сможете продлить себе жизнь, улучшить качество сна и поднять настроение"</string>
+</resources>
